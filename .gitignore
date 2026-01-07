@@ -30,6 +30,9 @@ ENV/
 chroma_db/
 *.db
 
+# Frame output
+frame_output/
+
 # IDE
 .vscode/
 .idea/
